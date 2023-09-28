@@ -1,0 +1,21 @@
+.card {
+  width: 268px;
+  -moz-box-shadow: -1px -3px 13px 3px rgba(0, 0, 0, 0.67);
+  -webkit-box-shadow: -1px -3px 13px 3px rgba(0, 0, 0, 0.67);
+  -ms-box-shadow: -1px -3px 13px 3px rgba(0, 0, 0, 0.67);
+  box-shadow: -1px -3px 13px 3px rgba(0, 0, 0, 0.67);
+  border-radius: 10px;
+  background-color: white;
+}
+
+.cardName {
+  padding: 0;
+  font-size: 24;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.cardInfo {
+  text-align: center;
+}
+
